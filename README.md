@@ -415,15 +415,15 @@ contact.html
 ## OUTPUT:
 
 
-### Home Page:
+## Home Page:
 
-![output](./images/home.jpg)
-### products:
-![output](./images/products.jpg)
-### people:
-![output](./images/people.jpg)
-### contact:
-![output](./images/contact.jpg)
+![output 1](./images/home.jpg)
+## products:
+![output 2](./images/products.jpg)
+## people:
+![output 3](./images/people.jpg)
+## contact:
+![output 4](./images/contact.jpg)
 
 ## Result:
 
