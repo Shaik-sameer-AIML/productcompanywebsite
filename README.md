@@ -417,13 +417,13 @@ contact.html
 
 ## Home Page:
 
-![output 1](./images/home.jpg)
+![output 1](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/home.JPG?raw=true)
 ## products:
-![output 2](./images/products.jpg)
+![output 2](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/products.JPG?raw=true)
 ## people:
-![output 3](./images/people.jpg)
+![output 3](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/prople.JPG?raw=true)
 ## contact:
-![output 4](./images/contact.jpg)
+![output 4](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/contact.JPG?raw=true)
 
 ## Result:
 
