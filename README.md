@@ -442,7 +442,7 @@ Mr.Tharun(Assistant HR):9573819022
 </div>
 <h1>E-Mail:</h1><br>
 <div class="contenttext">
-Sales:gunagunasekhar2003@gmail.com
+Sales:shaiksameer6056@gmail.com
 </div>
 </div>
 
