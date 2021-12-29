@@ -327,7 +327,7 @@ People.html
 </div>
 </div>
 <div class="footer">
-Copyright &#169; 2021 EduSoft Private Limited, Developed by Gunasekhar .
+Copyright &#169; 2021 EduSoft Private Limited, Developed by Sameer.S.
 </div>
 </div>
 </body>
@@ -403,7 +403,7 @@ contact.html
 </div>
 </div>
 <div class="footer">
-Copyright &#169; 2021 Adobe Private Limited, Developed by Gunasekhar.
+Copyright &#169; 2021 Adobe Private Limited, Developed by Sameer.S.
 </div>
 </div>
 </body>
@@ -448,7 +448,7 @@ Sales:gunagunasekhar2003@gmail.com
 
 </div>
 <div class="footer">
-Copyright &#169; 2021 Adobe Private Limited, Developed by Gunasekhar.
+Copyright &#169; 2021 Adobe Private Limited, Developed by Sameer.S
 </div>
 </div>
 </body>
@@ -460,13 +460,13 @@ Copyright &#169; 2021 Adobe Private Limited, Developed by Gunasekhar.
 
 ### Home Page:
 
-![output](https://github.com/gunasekhar159/productcompanywebsite/blob/main/home2.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/home.JPG?raw=true)
 ##  products
-![output](https://github.com/gunasekhar159/productcompanywebsite/blob/main/products2.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/products.JPG?raw=true)
 ## people
-![output](https://github.com/gunasekhar159/productcompanywebsite/blob/main/people%202.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/prople.JPG?raw=true)
 ## contactus
-![output](https://github.com/gunasekhar159/productcompanywebsite/blob/main/conntactus.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/productcompanywebsite/blob/main/contact.JPG?raw=true)
 
 ## Result:
 
