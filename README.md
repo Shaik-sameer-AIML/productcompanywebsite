@@ -209,7 +209,7 @@ css layout
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Gunasekharr.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by Sameer.s.
       </div>
     </div>
   </body>
